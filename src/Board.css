@@ -1,0 +1,7 @@
+.board {
+  border: 2px solid white;
+  width: 90%;
+  /* height: 90%; */
+  /* background-color: aqua; */
+  height: 100%;
+}
